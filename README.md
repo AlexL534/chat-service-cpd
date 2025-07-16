@@ -29,4 +29,4 @@ java Server <port>
 java Client <port> <address>
 ```
 
-For a more detailed overview of the project check the pdf in the doc folder.
+For a more detailed overview of the project check the pdf in assign1/doc.
